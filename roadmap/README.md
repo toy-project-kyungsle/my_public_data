@@ -6,6 +6,7 @@
 
 - [GUIDELINE.md](GUIDELINE.md) - 로드맵 차트 및 우선순위별 지침
 - [ACTION.md](ACTION.md) - 구체적인 액션 아이템
+- docs 폴더는 굳이 직접 들어가실 필요는 없습니다.
 
 ## 우선순위
 
