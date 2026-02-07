@@ -7,8 +7,11 @@
 
 ## (1) 시스템 관련
 
-- **현재 에러가 어떤 방향에서 얼마나 많이 나고 있는지를 촘촘히 체크한다**
-  - [앱_안정성_현황_체크리스트](docs/P0/study/앱_안정성_현황_체크리스트.md) 를 통해서 [Sentry Crash Dashboard](my_public_data/roadmap/docs/P0/study/JS_Sentry_Fatal/README) 를 제작함
+- **현재 에러가 어떤 방향에서 얼마나 많이 나고 있는지를 촘촘히 체크한다 (대시보드 제작)** 
+  - [센트리_앰플리튜드_대시보드](docs/P0/plan/센트리_앰플리튜드_대시보드.md) 설계
+    -  [Sentry Crash Dashboard](docs/P0/done/JS_Sentry_Fatal/README.md) 를 제작 완료
+    - 앰플리튜드 제작 중 (현재는 결제 부분 완료)
+    - [앱_안정성_현황_체크리스트](docs/P0/study/앱_안정성_현황_체크리스트.md) 이걸 더 참고해봐도 좋음
   - [ ] 간단한 에러들의 경우 바인드 구성원이 찾는게 아니라 시스템적으로 찾아줄 수 있는 방법
 
 - 실패를 설계한다.
