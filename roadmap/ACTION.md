@@ -1,5 +1,5 @@
 > [!NOTE] 이 문서의 목적
-> [GUIDELINE.md](my_public_data/roadmap/GUIDELINE.md) 을 기반으로 액션 아이템을 정의한다.
+> [GUIDELINE.md](GUIDELINE.md) 을 기반으로 액션 아이템을 정의한다.
 > 여기서 나오지 않았지만 아이디어가 더 있다면 부담 없이 적는다.
 > 아직 완성이 되지 않았지만, 완성 없이 끊임 없이 업데이트 되어야 하는 문서이다.
 
