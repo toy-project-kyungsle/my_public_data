@@ -2,6 +2,12 @@
 
 JS Fatal 에러와 Sentry 모니터링에 대한 학습 노트.
 
+이를 통해서 아래의 대시보드를 구성했다.
+
+https://bind-vw.sentry.io/dashboard/129466/
+
+![[README-1770471030451.webp]]
+
 ## 문서 목록
 
 | 문서 | 내용 |
